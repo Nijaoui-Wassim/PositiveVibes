@@ -2,6 +2,26 @@
 PositiveVibes
 ===================
 
+
+Quick Start
+===================
+pip install vaderSentiment,tensorflow==1.4.0
+pip install vaderSentiment
+Follow the documentation for GPT2: https://github.com/openai/gpt-2
+Add the GPT2 Master folder to your Path
+install all the requirements for GPT2
+pip install python-facebook-api
+
+And get a user Facebook Graph API Acess Toke :
+https://towardsdatascience.com/how-to-use-facebook-graph-api-and-extract-data-using-python-1839e19d6999
+
+And replace the existing token in the file facebook.py
+
+
+Test:
+python facebook.py
+
+
 Inspiration
 ===================
 
